@@ -80,7 +80,7 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 # ☕️ Support
 You can contact me be creating an issue here, if you want to support me with some SOL here I always appreciate help 👍
 ```
-5sC1ZeD21wbQyvL5wc7yL2wFntNdQWyKHg3AZaeXnkh7
+AfqN3w9fMbWUpsSG19esR2y15967jVtcNoveV4nyfahY
 ```
 
 ---
